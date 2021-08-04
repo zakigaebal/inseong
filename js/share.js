@@ -1,6 +1,6 @@
-const url = 'https://www.namoham.com/inseong';
-const title = '당신은 돼지인가?ㅋㅋㅋ ';
-const hash = '%2310_things_test %233분이미지테스트 %23이미지테스트 ';
+const url = 'https://www.namoham.com/inseong/';
+const title = '결과보기';
+const hash = '%2310_things_test %당신의결과 %23당신의결과 ';
 
 
 function setShare(){
