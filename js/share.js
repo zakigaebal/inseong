@@ -1,4 +1,4 @@
-const url = 'https://www.namoham.com/pigtest';
+const url = 'https://www.namoham.com/inseong';
 const title = '당신은 돼지인가?ㅋㅋㅋ ';
 const hash = '%2310_things_test %233분이미지테스트 %23이미지테스트 ';
 
