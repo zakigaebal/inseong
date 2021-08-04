@@ -6,7 +6,7 @@ const hash = '%2310_things_test %당신의결과 %23당신의결과 ';
 function setShare(){
   var resultImg = document.querySelector('#resultImg');
   var resultAlt = resultImg.firstElementChild.alt;
-  const shareTitle = '당신의 결과는???';
+  const shareTitle = '당신 설마 인성쓰레기?';
   const shareDes = infoList[resultAlt].name;
   const shareImage = url + '/img/image-' + resultAlt + '.png';
   const shareURL = url + '/page/result-' + resultAlt + '.html';
